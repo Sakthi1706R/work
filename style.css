@@ -1,0 +1,47 @@
+body{
+  
+    background-size:700px 700px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-image: url(jerry.jpg);
+
+
+}
+h1{
+    font-style: italic;
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal;
+   
+
+    
+  }
+span{
+  color: rgb(255, 0, 0);
+  font-size: larger;
+  font-style: italic;
+  font-family: "Itim", cursive;
+ font-weight: 200;
+ 
+
+}
+hr{
+    color: rgb(0, 0, 0);
+    border-color: brown;
+    padding: 5px;
+    
+}
+li{
+    color: rgba(255, 0, 0, 0.963);
+    list-style: lower-roman; 
+}
+ul{
+    color: red;
+}
+.one{
+    color: red;
+    margin-top: 100px
+    
+}
+
+
